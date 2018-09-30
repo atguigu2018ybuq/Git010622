@@ -3,7 +3,7 @@ package com.atguigu.svn;
 public class Person {
 	
 	public static void main(String [] args) {
-		System.out.println("Edit by left...");
+		System.out.println("Edit by left...");//right
 	}
 
 }
